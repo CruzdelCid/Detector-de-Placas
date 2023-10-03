@@ -22,9 +22,6 @@ Si ya se tiene todas las librerías instalas se puede ejecutar el siguiente coma
 
 `python detector.py --p [path de la imagen]`
 
-Ejemplo: 
-`python detector.py --p C:\Users\chuzd\REPOS\ComputerVision\Proyecto1\LicencePlates\images65.jpg`
-
 
 ## Archivos disponibles
 - dataset -> dataset de entrenamiento 
